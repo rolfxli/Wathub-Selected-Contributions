@@ -5,6 +5,6 @@ Collaborative Android Application "Wathub" which utilizes a forked base applicat
 and major updates. 
 
 This repo contains a number of my selected contributions that I feel are featurable and important. A possible repo
-containing all contributions may be created if requested.
+containing all my contributions may be created if requested.
 
 The master repo: https://github.com/wztlei/wathub
