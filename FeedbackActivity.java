@@ -6,6 +6,7 @@ import android.support.design.widget.CollapsingToolbarLayout;
 import android.support.v7.app.ActionBar;
 import android.support.v7.widget.Toolbar;
 import android.util.Patterns;
+import android.util.Log;
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.view.View;
@@ -31,9 +32,9 @@ public class FeedbackActivity extends BaseActivity {
     private EditText feedbackinput;
     private EditText feedbackemail;
 
-    @BindView(R.id.appbar)
+    @BindView(R.id.appbarfeedback)
     AppBarLayout mAppBarLayout;
-    @BindView(R.id.collapsing_toolbar)
+    @BindView(R.id.collapsing_toolbar_feedback)
     CollapsingToolbarLayout mCollapsingLayout;
     @BindView(R.id.toolbar)
     Toolbar mToolbar;
@@ -70,7 +71,7 @@ public class FeedbackActivity extends BaseActivity {
         findViewById(R.id.fb_submit).setOnClickListener(
                 new OnClickListener() {
                     @Override
-                    public void onClick(View view) {
+                    public void onClick(View v) {
                         checkInput();
                     }
                 }
@@ -98,10 +99,12 @@ public class FeedbackActivity extends BaseActivity {
             Toast.makeText(FeedbackActivity.this, "Please fill feedback!", Toast.LENGTH_LONG).show();
         }
         else {
-            checkRest();
+             checkName();
+            //checkRest();
         }
     }
 
+    /*
     private void checkRest() {
         if (feedbackname.getText().toString().trim().length() == 0) {
             String NN = "Null Name";
@@ -113,8 +116,8 @@ public class FeedbackActivity extends BaseActivity {
         }
         sendout();
     }
+    */
 
-    /*
     private void checkName() {
         if (feedbackname.getText().toString().trim().length() == 0) {
             feedbackname.setText("Null Name");
@@ -130,16 +133,22 @@ public class FeedbackActivity extends BaseActivity {
             sendout();
         }
         else {
-            feedbackemail.setText("Null Email");
-            sendout();
+            // implement a generic email for sendout
+
+            // String EM = "death12005@hotmail.com"
+            // feedbackemail.setTest(EM);
+
+            feedbackemail.setError("Please enter a valid email!");
+            Toast.makeText(FeedbackActivity.this, "Please enter a valid email.", Toast.LENGTH_LONG);
+           // feedbackemail.setText("Null Email");
+           // sendout();
         }
     }
-    */
 
     private void sendout() {
 
         Retrofit rf = new Retrofit.Builder()
-                .baseUrl("https://docs.google.com/spreadsheets/d/1Pl5vnBZU7D1HWlvgM_Ocfa1eWxJ6uGW9zXLaLN6HaUQ/edit#gid=157590125")
+                .baseUrl("https://docs.google.com/forms/d/e/")
                 .build();
 
         String input = feedbackinput.getText().toString();
@@ -152,7 +161,7 @@ public class FeedbackActivity extends BaseActivity {
         fbcall.enqueue(new Callback<Void>() {
             @Override
             public void onResponse(Call<Void> call, Response<Void> response) {
-                //Log.d("XXX", "Submitted. " + response);
+                Log.d("XXX", "Submitted. " + response);
                 Toast.makeText(FeedbackActivity.this,"Feedback Submitted!",Toast.LENGTH_LONG).show();
                 feedbackinput.setText("");
                 feedbackname.setText("");
@@ -161,7 +170,7 @@ public class FeedbackActivity extends BaseActivity {
 
             @Override
             public void onFailure(Call<Void> call, Throwable t) {
-                //Log.e("XXX", "Failed", t);
+                Log.e("XXX", "Failed", t);
                 Toast.makeText(FeedbackActivity.this,"Failed.",Toast.LENGTH_LONG).show();
             }}
         );
