@@ -13,6 +13,9 @@ import android.view.View;
 import android.view.View.*;
 import android.widget.EditText;
 import android.widget.Toast;
+import android.content.Context;
+import android.net.ConnectivityManager;
+import android.net.NetworkInfo;
 
 import butterknife.BindString;
 import butterknife.BindView;
@@ -27,6 +30,8 @@ import retrofit2.Retrofit;
 
 import io.github.wztlei.wathub.ui.modules.Feedback.feedbacksendout;
 
+// Rolf Li, July 2019
+
 public class FeedbackActivity extends BaseActivity {
     private EditText feedbackname;
     private EditText feedbackinput;
@@ -39,7 +44,8 @@ public class FeedbackActivity extends BaseActivity {
     @BindView(R.id.toolbar)
     Toolbar mToolbar;
 
-    @BindString(R.string.menu_feedback)
+
+    @BindString(R.string.feedback_input)
     String mFeedbackString;
 
     @Override
@@ -72,10 +78,22 @@ public class FeedbackActivity extends BaseActivity {
                 new OnClickListener() {
                     @Override
                     public void onClick(View v) {
-                        checkInput();
+                        if (!isNetworkConnected()) {
+                            Toast.makeText(FeedbackActivity.this, "You are not connected to the internet, please try later.", Toast.LENGTH_LONG).show();
+                        }
+                        else {
+                            checkInput();
+                        }
                     }
                 }
         );
+    }
+
+    // check for a network connection
+    private boolean isNetworkConnected() {
+        ConnectivityManager cm = (ConnectivityManager) this.getSystemService(Context.CONNECTIVITY_SERVICE);
+        NetworkInfo netInfo = cm.getActiveNetworkInfo();
+        return netInfo != null && netInfo.isConnected();
     }
 
     @Override
@@ -96,7 +114,7 @@ public class FeedbackActivity extends BaseActivity {
     private void checkInput() {
         if (feedbackinput.getText().toString().trim().length() == 0) {
             feedbackinput.setError("Please enter your feedback!");
-            Toast.makeText(FeedbackActivity.this, "Please fill feedback!", Toast.LENGTH_LONG).show();
+            Toast.makeText(FeedbackActivity.this, "Please enter your feedback!", Toast.LENGTH_LONG).show();
         }
         else {
              checkName();
