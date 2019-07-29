@@ -28,7 +28,7 @@ import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
 
-import io.github.wztlei.wathub.ui.modules.Feedback.feedbacksendout;
+import io.github.wztlei.wathub.net.feedback.FeedbackInterface;
 
 // Rolf Li, July 2019
 
@@ -118,23 +118,8 @@ public class FeedbackActivity extends BaseActivity {
         }
         else {
              checkName();
-            //checkRest();
         }
     }
-
-    /*
-    private void checkRest() {
-        if (feedbackname.getText().toString().trim().length() == 0) {
-            String NN = "Null Name";
-            feedbackname.setText(NN);
-        }
-        if (!Patterns.EMAIL_ADDRESS.matcher(feedbackemail.getText()).matches()) {
-            String EM = "Null Email";
-            feedbackemail.setText(EM);
-        }
-        sendout();
-    }
-    */
 
     private void checkName() {
         if (feedbackname.getText().toString().trim().length() == 0) {
@@ -151,15 +136,8 @@ public class FeedbackActivity extends BaseActivity {
             sendout();
         }
         else {
-            // implement a generic email for sendout
-
-            // String EM = "death12005@hotmail.com"
-            // feedbackemail.setTest(EM);
-
             feedbackemail.setError("Please enter a valid email!");
             Toast.makeText(FeedbackActivity.this, "Please enter a valid email.", Toast.LENGTH_LONG);
-           // feedbackemail.setText("Null Email");
-           // sendout();
         }
     }
 
@@ -173,7 +151,7 @@ public class FeedbackActivity extends BaseActivity {
         String name = feedbackname.getText().toString();
         String email = feedbackemail.getText().toString();
 
-        final feedbacksendout fbout = rf.create(feedbacksendout.class);
+        final FeedbackInterface fbout = rf.create(FeedbackInterface.class);
 
         Call<Void> fbcall = fbout.fbSend(input, name, email);
         fbcall.enqueue(new Callback<Void>() {
