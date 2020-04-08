@@ -69,29 +69,35 @@ def load_pages(url: str, count: int, year: int):
         for odd in odds:
             hrefs = odd.find_all('a')
             title = odd.find(class_="views-field views-field-title-1").text.strip()
-            title = str(title).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+            title = str(title).replace("\n"," ").replace("\r"," ").replace("\\n", " ").replace('"', "")
 
             titleHref = redirectionUrl + str(hrefs[0].get('href'))
-            titleHref = str(titleHref).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+            titleHref = str(titleHref).replace("\n"," ").replace("\r"," ").replace("\\n", " ").replace('"', "")
 
             description = odd.find(class_="views-field views-field-field-uw-imp-dates-description").text.strip()
-            description = str(description).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+            description = str(description).replace("\n"," ").replace("\r"," ").replace("\\n", " ").replace('"', "")
 
             term = odd.find(class_="views-field views-field-name-2").text.strip()
-            term = str(term).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+            term = str(term).replace("\n"," ").replace("\r"," ").replace("\\n", " ").replace('"', "")
 
             dates = odd.find(class_="views-field views-field-field-uw-imp-dates-date active").text.strip()
-            dates = str(dates).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+            dates = str(dates).replace("\n"," ").replace("\r"," ").replace("\\n", " ").replace('"', "")
 
             important_date = "{\"Title\": \"" + title + "\", \"TitleRef\": \"" + titleHref + "\", \"Description\": \"" + description + "\", \"Term\": \"" + term + "\", \"Dates\": \"" + dates + "\"}"
             important_date = str(important_date).replace("\n","").replace("\r","").replace("\\n", "").replace("\\r", "")
             important_dates.append(important_date.replace('\n','').replace('\r','').replace('\\n', '').replace('\\r', ''))
+            jsonString += important_date
+            jsonString += ","
             count += 1
     #for elem in important_dates:
         #jsonString += elem
         #jsonString += ","
     jsonString = jsonString[:-1]
     jsonString += "]"
+
+    f = open("testJson.txt", "w")
+    f.write(jsonString)
+    f.close()
 
     print(important_dates)
     print('\n')
