@@ -24,36 +24,78 @@ def load_pages(url: str, count: int, year: int):
     redirectionUrl = "https://uwaterloo.ca"
 
     important_dates = []
-    #print(count)
+    jsonString = "["
+    
     for page in range(count):
         final_url = ""
         if (page == 0):
             final_url = firstUrl
         else:
             final_url = url + str(page)
-        #print(final_url)
 
         page = requests.get(final_url)
         soup = BeautifulSoup(page.content, "html.parser")
-        #events = soup.find_all('tbody')
-        #print(events)
         evens = soup.find_all(class_="even")
-        #print (evens[0])
+        odds = soup.find_all(class_="odd")
         count = 0
         for even in evens:
             hrefs = even.find_all('a')
             title = even.find(class_="views-field views-field-title-1").text.strip()
-            titleHref = redirectionUrl + str(hrefs[0].get('href'))
-            description = even.find(class_="views-field views-field-field-uw-imp-dates-description").text.strip()
-            term = even.find(class_="views-field views-field-name-2").text.strip()
-            dates = even.find(class_="views-field views-field-field-uw-imp-dates-date active").text.strip()
+            title = str(title).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
 
-            important_date = "{\"Title\": \"" + str(title) + "\", \"TitleRef\": \"" + str(titleHref) + "\", \"Description\": \"" + str(description) + "\", \"Term\": \"" + str(term) + "\", \"Dates\": \"" + str(dates) + "\"}" 
-            important_dates.append(important_date)
+            titleHref = redirectionUrl + str(hrefs[0].get('href'))
+            titleHref = str(titleHref).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            description = even.find(class_="views-field views-field-field-uw-imp-dates-description").text.strip()
+            description = str(description).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            term = even.find(class_="views-field views-field-name-2").text.strip()
+            term = str(term).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            dates = even.find(class_="views-field views-field-field-uw-imp-dates-date active").text.strip()
+            dates = str(dates).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            important_date = "{\"Title\": \"" + title + "\", \"TitleRef\": \"" + titleHref + "\", \"Description\": \"" + description + "\", \"Term\": \"" + term + "\", \"Dates\": \"" + dates + "\"}"
+            important_date = str(important_date).replace("\n","").replace("\r","").replace("\\n", "").replace("\\r", "")
+            #important_date = important_date.replace("\n","")
+            #important_date = important_date.replace("\\n","")
+            #important_date = important_date.replace("\r","")
+            #important_date = important_date.replace("\\r","")
+            #important_date = important_date.replace("\n\r","")
+            #important_date = important_date.replace("\\n\\r","")
+            important_dates.append(important_date.replace('\n','').replace('\r','').replace('\\n', '').replace('\\r', ''))
             count += 1
-        #print(count)
-    
+
+        for odd in odds:
+            hrefs = odd.find_all('a')
+            title = odd.find(class_="views-field views-field-title-1").text.strip()
+            title = str(title).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            titleHref = redirectionUrl + str(hrefs[0].get('href'))
+            titleHref = str(titleHref).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            description = odd.find(class_="views-field views-field-field-uw-imp-dates-description").text.strip()
+            description = str(description).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            term = odd.find(class_="views-field views-field-name-2").text.strip()
+            term = str(term).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            dates = odd.find(class_="views-field views-field-field-uw-imp-dates-date active").text.strip()
+            dates = str(dates).replace("\n"," ").replace("\r"," ").replace("\\n", " ")
+
+            important_date = "{\"Title\": \"" + title + "\", \"TitleRef\": \"" + titleHref + "\", \"Description\": \"" + description + "\", \"Term\": \"" + term + "\", \"Dates\": \"" + dates + "\"}"
+            important_date = str(important_date).replace("\n","").replace("\r","").replace("\\n", "").replace("\\r", "")
+            important_dates.append(important_date.replace('\n','').replace('\r','').replace('\\n', '').replace('\\r', ''))
+            count += 1
+    #for elem in important_dates:
+        #jsonString += elem
+        #jsonString += ","
+    jsonString = jsonString[:-1]
+    jsonString += "]"
+
     print(important_dates)
+    print('\n')
+    print(count)
 
 def get_total_pages(year: str):
     # Create the query url
@@ -80,10 +122,8 @@ def get_total_pages(year: str):
 
     foundPages = soup.find_all(class_="pager-item")
     for result in foundPages:
-        #print(result)
         pageCount += 1
     
-    print('\n')
     load_pages(condensedUrl, pageCount, year)
 
 #def json_conversion(raw: str):
