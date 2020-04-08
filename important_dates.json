@@ -1,429 +1,821 @@
 [
-    {
-       "Title": "Course Selection Period - returning students",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/course-selection-period-returning-students",
-       "Description": "See How do I select courses for a future term?",
-       "Term": "Fall 2019",
-       "Dates": "May 23, 2019 to Jun 3, 2019"
-    },
-    {
-       "Title": "View next term's schedule and appointments",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/view-next-terms-schedule-and-appointments",
-       "Description": "Registered students can begin to view next term's class schedule and appointment time in Quest. See How to view appointment time for the beginning of drop/add?",
-       "Term": "Fall 2019",
-       "Dates": "Jul 17, 2019"
-    },
-    {
-       "Title": "Drop/Add Period begins - returning students",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/dropadd-period-begins-returning-students",
-       "Description": "The Drop/Add Period begins with individualized Quest appointment times. See How to view appointment time for the beginning of drop/add. Dates listed indicate Quest appointment period. The Add Period continues for all students until the last day to add a class.",
-       "Term": "Fall 2019",
-       "Dates": "Jul 22, 2019 to Jul 23, 2019"
-    },
-    {
-       "Title": "Tuition and fees due",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fees-due",
-       "Description": "Become Fees Arranged or access to LEARN may be affected.",
-       "Term": "Fall 2019",
-       "Dates": "Aug 20, 2019"
-    },
-    {
-       "Title": "International undergraduate student orientation",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/international-undergraduate-student-orientation",
-       "Description": "For international students enrolling for the first time at Waterloo; see�Orientation website.",
-       "Term": "Fall 2019",
-       "Dates": "Aug 29, 2019 to Aug 31, 2019"
-    },
-    {
-       "Title": "Labour Day",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/labour-day",
-       "Description": "No classes and offices closed",
-       "Term": "Fall 2019",
-       "Dates": "Sep 2, 2019"
-    },
-    {
-       "Title": "Classes begin",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-begin",
-       "Description": "Laurier may have a different schedule - visit their website for applicable start dates.",
-       "Term": "Fall 2019",
-       "Dates": "Sep 4, 2019"
-    },
-    {
-       "Title": "Reserves removed",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reserves-removed",
-       "Description": "Reserves on most classes will be removed, opening remaining spaces to all students. See Schedule of Classes.",
-       "Term": "Fall 2019",
-       "Dates": "Sep 11, 2019"
-    },
-    {
-       "Title": "Last day to add a class",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-add-class",
-       "Description": "See How to create your class schedule.",
-       "Term": "Fall 2019",
-       "Dates": "Sep 17, 2019"
-    },
-    {
-       "Title": "Drop with WD begins",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-begins-0",
-       "Description": "WD (Withdrew, no credit granted) grade assigned for class(es) dropped during this period.",
-       "Term": "Fall 2019",
-       "Dates": "Sep 25, 2019"
-    },
-    {
-       "Title": "Course Selection Period",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/course-selection-period",
-       "Description": "See How do I select courses for a future term?",
-       "Term": "Winter 2020",
-       "Dates": "Sep 26, 2019 to Oct 8, 2019"
-    },
-    {
-       "Title": "Adjust online course examination location",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/adjust-online-course-examination-location",
-       "Description": "See How do I view my online course exam schedule?",
-       "Term": "Fall 2019",
-       "Dates": "Sep 27, 2019 to Oct 18, 2019"
-    },
-    {
-       "Title": "Thanksgiving Day",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/thanksgiving-day",
-       "Description": "All classes cancelled and offices closed",
-       "Term": "Fall 2019",
-       "Dates": "Oct 14, 2019"
-    },
-    {
-       "Title": "Reading Week",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reading-week",
-       "Description": "All classes cancelled.",
-       "Term": "Fall 2019",
-       "Dates": "Oct 15, 2019 to Oct 18, 2019"
-    },
-    {
-       "Title": "Tuition and fee refund deadline - 50%",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-50",
-       "Description": "See Student Financial Services website.",
-       "Term": "Fall 2019",
-       "Dates": "Oct 22, 2019"
-    },
-    {
-       "Title": "Last day to arrange tuition and fees",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees",
-       "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest. After this date, a Late Fees Arrangement Form is required to become Fees Arranged.",
-       "Term": "Fall 2019",
-       "Dates": "Oct 31, 2019"
-    },
-    {
-       "Title": "View next term's schedule and appointments",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/view-next-terms-schedule-and-appointments",
-       "Description": "Registered students can begin to view next term's class schedule and appointment time in Quest. See How to view appointment time for the beginning of drop/add?",
-       "Term": "Winter 2020",
-       "Dates": "Nov 14, 2019"
-    },
-    {
-       "Title": "Drop with WD ends",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-ends-0",
-       "Description": "Last day to drop a class and receive a WD (Withdrew, no credit granted) grade.",
-       "Term": "Fall 2019",
-       "Dates": "Nov 19, 2019"
-    },
-    {
-       "Title": "Class enrolment period",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-enrolment-period",
-       "Description": "During this period, graduate students can enrol themselves in classes using Quest, and can also drop classes in Quest. Graduate students who are not fee arranged and have enrolled in classes will have their classes dropped at the end of the third week of classes (end of class enrolment period).",
-       "Term": "Winter 2020",
-       "Dates": "Dec 2, 2019 to Jan 26, 2020"
-    },
-    {
-       "Title": "Pre-examination study days",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/pre-examination-study-days",
-       "Description": "",
-       "Term": "Fall 2019",
-       "Dates": "Dec 4, 2019 to Dec 5, 2019"
-    },
-    {
-       "Title": "On-campus examinations begin",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/campus-examinations-begin",
-       "Description": "",
-       "Term": "Fall 2019",
-       "Dates": "Dec 6, 2019"
-    },
-    {
-       "Title": "Tuition and fees due",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fees-due",
-       "Description": "Become Fees Arranged or access to LEARN may be affected.",
-       "Term": "Winter 2020",
-       "Dates": "Dec 12, 2019"
-    },
-    {
-       "Title": "Co-operative work term ends",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-ends",
-       "Description": "Actual dates may vary depending on employer or student requirements.",
-       "Term": "Fall 2019",
-       "Dates": "Dec 20, 2019"
-    },
-    {
-       "Title": "Grades begin to appear in Quest",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/grades-begin-appear-quest",
-       "Description": "Registered students can view their unofficial term grades in Quest. Note: Not all grades will be available on this date.",
-       "Term": "Fall 2019",
-       "Dates": "Dec 22, 2019"
-    },
-    {
-       "Title": "New Year's Day",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/new-years-day",
-       "Description": "No classes and offices closed",
-       "Term": "Winter 2020",
-       "Dates": "Jan 1, 2020"
-    },
-    {
-       "Title": "Co-operative work term begins",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-begins",
-       "Description": "Actual dates may vary depending on employer or student requirements.",
-       "Term": "Winter 2020",
-       "Dates": "Jan 6, 2020"
-    },
-    {
-       "Title": "Classes begin",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-begin",
-       "Description": "Laurier may have a different schedule - visit their website for applicable start dates.",
-       "Term": "Winter 2020",
-       "Dates": "Jan 6, 2020"
-    },
-    {
-       "Title": "Last day to select examination centres",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-select-examination-centres",
-       "Description": "For online courses; log in to Quest.",
-       "Term": "Winter 2020",
-       "Dates": "Jan 12, 2020"
-    },
-    {
-       "Title": "Standing decisions and official grades are available in Quest",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/standing-decisions-and-official-grades-are-available-quest",
-       "Description": "Registered students can view their official and complete term grades, along with academic standing, in Quest.",
-       "Term": "Fall 2019",
-       "Dates": "Jan 21, 2020"
-    },
-    {
-       "Title": "Drop with WD begins",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-begins-0",
-       "Description": "WD (Withdrew, no credit granted) grade assigned for class(es) dropped during this period.",
-       "Term": "Winter 2020",
-       "Dates": "Jan 25, 2020"
-    },
-    {
-       "Title": "Class drop with grade of Withdrawn, no credit granted (WD) Extended from March 22 to March 29 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-drop-grade-withdrawn-no-credit-granted-wd",
-       "Description": "During this period, graduate students can continue to drop classes in Quest but a grade of Withdrawn, no credit granted (WD) will be applied and the class will remain on the transcript.� Note that WD is not an academic penalty. Outside of this period, students with special circumstances can petition to drop or add a class using a course drop add form (Graduate Studies forms website).",
-       "Term": "Winter 2020",
-       "Dates": "Jan 27, 2020 to Mar 29, 2020"
-    },
-    {
-       "Title": "Final examination schedules released",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-examination-schedules-released",
-       "Description": "Go to on-campus and online schedules.",
-       "Term": "Winter 2020",
-       "Dates": "Jan 31, 2020"
-    },
-    {
-       "Title": "Last day to arrange tuition and fees",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees",
-       "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest. After this date, a Late Fees Arrangement Form is required to become Fees Arranged.",
-       "Term": "Winter 2020",
-       "Dates": "Jan 31, 2020"
-    },
-    {
-       "Title": "Tuition and fee refund deadline - 50%",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-50",
-       "Description": "See Student Financial Services website.",
-       "Term": "Winter 2020",
-       "Dates": "Feb 14, 2020"
-    },
-    {
-       "Title": "Reading Week",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reading-week",
-       "Description": "All classes cancelled.",
-       "Term": "Winter 2020",
-       "Dates": "Feb 18, 2020 to Feb 21, 2020"
-    },
-    {
-       "Title": "Application to Graduate due",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/application-graduate-due-0",
-       "Description": "Complete an Application to Graduate for the June convocation ceremony.",
-       "Term": "Winter 2020",
-       "Dates": "Mar 1, 2020"
-    },
-    {
-       "Title": "Drop with WF begins Drop with WD extended from March 20 to March 30 due to COVID-19, thus Drop with WF begins also extended.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wf-begins",
-       "Description": "WF (Withdrew/Failure, no credit granted, value 32) grade assigned for class(es) dropped during this period. Engineering students: Visit course load and withdrawal in the Undergraduate Calendar for specific regulations.",
-       "Term": "Winter 2020",
-       "Dates": "Mar 31, 2020"
-    },
-    {
-       "Title": "Drop/Add Period begins Revised from March 23-24 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/dropadd-period-begins",
-       "Description": "The Drop/Add Period begins with individualized Quest appointment times. See How to view appointment time for the beginning of drop/add. Dates listed indicate Quest appointment period. The Add Period continues for all students until the last day to add a class.",
-       "Term": "Spring 2020",
-       "Dates": "Apr 2, 2020 to Apr 3, 2020"
-    },
-    {
-       "Title": "Pre-examination study days",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/pre-examination-study-days",
-       "Description": "",
-       "Term": "Winter 2020",
-       "Dates": "Apr 6, 2020 to Apr 7, 2020"
-    },
-    {
-       "Title": "Class enrolment period Revised from March 30-May 24 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-enrolment-period",
-       "Description": "During this period, graduate students can enrol themselves in classes using Quest, and can also drop classes in Quest. Graduate students who are not fee arranged and have enrolled in classes will have their classes dropped at the end of the third week of classes (end of class enrolment period).",
-       "Term": "Spring 2020",
-       "Dates": "Apr 6, 2020 to May 31, 2020"
-    },
-    {
-       "Title": "End of term evaluation period begins - no on-campus exams",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/end-term-evaluation-period-begins-no-campus-exams",
-       "Description": "",
-       "Term": "Winter 2020",
-       "Dates": "Apr 8, 2020"
-    },
-    {
-       "Title": "Online class examination days No in-person exams; contact instructor for details.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/online-class-examination-days",
-       "Description": "",
-       "Term": "Winter 2020",
-       "Dates": "Apr 17, 2020 to Apr 18, 2020"
-    },
-    {
-       "Title": "End of term evaluations conclude",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/end-term-evaluations-conclude",
-       "Description": "",
-       "Term": "Winter 2020",
-       "Dates": "Apr 25, 2020"
-    },
-    {
-       "Title": "Grades begin to appear in Quest",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/grades-begin-appear-quest",
-       "Description": "Registered students can view their unofficial term grades in Quest. Note: Not all grades will be available on this date.",
-       "Term": "Winter 2020",
-       "Dates": "Apr 26, 2020"
-    },
-    {
-       "Title": "Classes begin Online classes only; revised from May 4 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-begin",
-       "Description": "Laurier may have a different schedule - visit their website for applicable start dates.",
-       "Term": "Spring 2020",
-       "Dates": "May 11, 2020"
-    },
-    {
-       "Title": "Program completion deadline for Convocation - spring 2020 Extended from April 30 to May 15 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/program-completion-deadline-convocation-spring-2020",
-       "Description": "",
-       "Term": "Spring 2020",
-       "Dates": "May 15, 2020"
-    },
-    {
-       "Title": "Late fees begin Revised from April 25 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/late-fees-begin",
-       "Description": "See Student Financial Services website.",
-       "Term": "Spring 2020",
-       "Dates": "May 16, 2020"
-    },
-    {
-       "Title": "Last day to add a class Revised from May 15 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-add-class",
-       "Description": "See How to create your class schedule.",
-       "Term": "Spring 2020",
-       "Dates": "May 25, 2020"
-    },
-    {
-       "Title": "Tuition and fee refund deadline - 100% Revised from May 22 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-100",
-       "Description": "See Student Financial Services website.",
-       "Term": "Spring 2020",
-       "Dates": "Jun 1, 2020"
-    },
-    {
-       "Title": "Drop with WD begins Revised from May 23 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-begins-0",
-       "Description": "WD (Withdrew, no credit granted) grade assigned for class(es) dropped during this period.",
-       "Term": "Spring 2020",
-       "Dates": "Jun 2, 2020"
-    },
-    {
-       "Title": "Convocation - spring 2020",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/convocation-spring-2020",
-       "Description": "Visit Convocation website for ceremony details.",
-       "Term": "Spring 2020",
-       "Dates": "Jun 16, 2020 to Jun 20, 2020"
-    },
-    {
-       "Title": "Tuition and fee refund deadline - 50% Revised from June 19 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-50",
-       "Description": "See Student Financial Services website.",
-       "Term": "Spring 2020",
-       "Dates": "Jun 26, 2020"
-    },
-    {
-       "Title": "Last day to arrange tuition and fees",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees-0",
-       "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest.",
-       "Term": "Spring 2020",
-       "Dates": "Jun 30, 2020"
-    },
-    {
-       "Title": "Canada Day",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/canada-day",
-       "Description": "All classes cancelled and offices closed",
-       "Term": "Spring 2020",
-       "Dates": "Jul 1, 2020"
-    },
-    {
-       "Title": "Drop with WD ends Revised from July 14 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-ends-0",
-       "Description": "Last day to drop a class and receive a WD (Withdrew, no credit granted) grade.",
-       "Term": "Spring 2020",
-       "Dates": "Jul 21, 2020"
-    },
-    {
-       "Title": "Application to Graduate due",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/application-graduate-due",
-       "Description": "Complete an Application to Graduate for the October convocation ceremony.",
-       "Term": "Spring 2020",
-       "Dates": "Aug 1, 2020"
-    },
-    {
-       "Title": "Classes end Revised from July 28 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-end",
-       "Description": "Laurier may have a different schedule - visit their website for applicable end dates.",
-       "Term": "Spring 2020",
-       "Dates": "Aug 5, 2020"
-    },
-    {
-       "Title": "Pre-final assessment study day Replaces pre-examination study days (July 29-30) due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/pre-final-assessment-study-day",
-       "Description": "",
-       "Term": "Spring 2020",
-       "Dates": "Aug 6, 2020"
-    },
-    {
-       "Title": "Final assessment period ends Replaces on-campus final examination period (July 31 to August 15) due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-assessment-period-ends",
-       "Description": "",
-       "Term": "Spring 2020",
-       "Dates": "Aug 15, 2020"
-    },
-    {
-       "Title": "Co-operative work term ends Revised from August 21 due to COVID-19.",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-ends",
-       "Description": "Actual dates may vary depending on employer or student requirements.",
-       "Term": "Spring 2020",
-       "Dates": "Aug 28, 2020"
-    },
-    {
-       "Title": "Standing decisions and official grades are available in Quest",
-       "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/standing-decisions-and-official-grades-are-available-quest",
-       "Description": "Registered students can view their official and complete term grades, along with academic standing, in Quest.",
-       "Term": "Spring 2020",
-       "Dates": "Sep 15, 2020"
-    }
- ]
+   {
+      "Title": "Course Selection Period - new students",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/course-selection-period-new-students",
+      "Description": "To determine if you need to participate in the Course Selection Period, see the course registration information for new sudents page. See How do I select courses for a future term?",
+      "Term": "Fall 2019",
+      "Dates": "Jul 2, 2019 to Jul 8, 2019"
+   },
+   {
+      "Title": "Drop/Add Period begins - new students",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/dropadd-period-begins-new-students",
+      "Description": "Dates listed indicate Quest appointment period. The Add Period continues for all students until the last day to add a class.",
+      "Term": "Fall 2019",
+      "Dates": "Jul 18, 2019 to Jul 23, 2019"
+   },
+   {
+      "Title": "Class enrolment period",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-enrolment-period",
+      "Description": "During this period, graduate students can enrol themselves in classes using Quest, and can also drop classes in Quest. Graduate students who are not fee arranged and have enrolled in classes will have their classes dropped at the end of the third week of classes (end of class enrolment period).",
+      "Term": "Fall 2019",
+      "Dates": "Jul 31, 2019 to Sep 24, 2019"
+   },
+   {
+      "Title": "Late fees begin",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/late-fees-begin",
+      "Description": "See Student Financial Services website.",
+      "Term": "Fall 2019",
+      "Dates": "Aug 21, 2019"
+   },
+   {
+      "Title": "Undergraduate student orientation",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/undergraduate-student-orientation",
+      "Description": "For students enrolling for the first time at Waterloo; see�Orientation website.",
+      "Term": "Fall 2019",
+      "Dates": "Aug 31, 2019 to Sep 7, 2019"
+   },
+   {
+      "Title": "Co-operative work term begins",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-begins",
+      "Description": "Actual dates may vary depending on employer or student requirements.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 3, 2019"
+   },
+   {
+      "Title": "Graduate student orientation",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/graduate-student-orientation",
+      "Description": "Visit the�Orientation website for information about graduate student orientation.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 7, 2019"
+   },
+   {
+      "Title": "Last day to select examination centres",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-select-examination-centres",
+      "Description": "For online courses; log in to Quest.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 15, 2019"
+   },
+   {
+      "Title": "Tuition and fee refund deadline - 100%",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-100",
+      "Description": "See Student Financial Services website.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 24, 2019"
+   },
+   {
+      "Title": "Class drop with grade of Withdrawn, no credit granted (WD)",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-drop-grade-withdrawn-no-credit-granted-wd",
+      "Description": "During this period, graduate students can continue to drop classes in Quest but a grade of Withdrawn, no credit granted (WD) will be applied and the class will remain on the transcript.� Note that WD is not an academic penalty. Outside of this period, students with special circumstances can petition to drop or add a class using a course drop add form (Graduate Studies forms website).",
+      "Term": "Fall 2019",
+      "Dates": "Sep 25, 2019 to Nov 19, 2019"
+   },
+   {
+      "Title": "Final examination schedules released",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-examination-schedules-released",
+      "Description": "Go to on-campus and online schedules.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 27, 2019"
+   },
+   {
+      "Title": "Requests for accommodations on religious grounds due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/requests-accommodations-religious-grounds-due",
+      "Description": "Requests for accommodations on religous grounds for final examinations should normally be made within weeks of the final examination schedule being published. Students must contact their instructor by the deadline.",
+      "Term": "Fall 2019",
+      "Dates": "Oct 4, 2019"
+   },
+   {
+      "Title": "Course Selection Period - returning students",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/course-selection-period-returning-students",
+      "Description": "See How do I select courses for a future term?",
+      "Term": "Fall 2019",
+      "Dates": "May 23, 2019 to Jun 3, 2019"
+   },
+   {
+      "Title": "View next term's schedule and appointments",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/view-next-terms-schedule-and-appointments",
+      "Description": "Registered students can begin to view next term's class schedule and appointment time in Quest. See How to view appointment time for the beginning of drop/add?",
+      "Term": "Fall 2019",
+      "Dates": "Jul 17, 2019"
+   },
+   {
+      "Title": "Drop/Add Period begins - returning students",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/dropadd-period-begins-returning-students",
+      "Description": "The Drop/Add Period begins with individualized Quest appointment times. See How to view appointment time for the beginning of drop/add. Dates listed indicate Quest appointment period. The Add Period continues for all students until the last day to add a class.",
+      "Term": "Fall 2019",
+      "Dates": "Jul 22, 2019 to Jul 23, 2019"
+   },
+   {
+      "Title": "Tuition and fees due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fees-due",
+      "Description": "Become Fees Arranged or access to LEARN may be affected.",
+      "Term": "Fall 2019",
+      "Dates": "Aug 20, 2019"
+   },
+   {
+      "Title": "International undergraduate student orientation",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/international-undergraduate-student-orientation",
+      "Description": "For international students enrolling for the first time at Waterloo; see�Orientation website.",
+      "Term": "Fall 2019",
+      "Dates": "Aug 29, 2019 to Aug 31, 2019"
+   },
+   {
+      "Title": "Labour Day",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/labour-day",
+      "Description": "No classes and offices closed",
+      "Term": "Fall 2019",
+      "Dates": "Sep 2, 2019"
+   },
+   {
+      "Title": "Classes begin",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-begin",
+      "Description": "Laurier may have a different schedule - visit their website for applicable start dates.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 4, 2019"
+   },
+   {
+      "Title": "Reserves removed",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reserves-removed",
+      "Description": "Reserves on most classes will be removed, opening remaining spaces to all students. See Schedule of Classes.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 11, 2019"
+   },
+   {
+      "Title": "Last day to add a class",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-add-class",
+      "Description": "See How to create your class schedule.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 17, 2019"
+   },
+   {
+      "Title": "Drop with WD begins",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-begins-0",
+      "Description": "WD (Withdrew, no credit granted) grade assigned for class(es) dropped during this period.",
+      "Term": "Fall 2019",
+      "Dates": "Sep 25, 2019"
+   },
+   {
+      "Title": "Course Selection Period",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/course-selection-period",
+      "Description": "See How do I select courses for a future term?",
+      "Term": "Winter 2020",
+      "Dates": "Sep 26, 2019 to Oct 8, 2019"
+   },
+   {
+      "Title": "Adjust online course examination location",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/adjust-online-course-examination-location",
+      "Description": "See How do I view my online course exam schedule?",
+      "Term": "Fall 2019",
+      "Dates": "Sep 27, 2019 to Oct 18, 2019"
+   },
+   {
+      "Title": "Thanksgiving Day",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/thanksgiving-day",
+      "Description": "All classes cancelled and offices closed",
+      "Term": "Fall 2019",
+      "Dates": "Oct 14, 2019"
+   },
+   {
+      "Title": "Final examination relief requests due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-examination-relief-requests-due",
+      "Description": "Requests for relief for consecutive final exams are generally due 3 weeks after the final examination schedule is published.",
+      "Term": "Fall 2019",
+      "Dates": "Oct 21, 2019"
+   },
+   {
+      "Title": "Convocation - fall 2019",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/convocation-fall-2019",
+      "Description": "Visit Convocation website for ceremony details.",
+      "Term": "Fall 2019",
+      "Dates": "Oct 25, 2019 to Oct 26, 2019"
+   },
+   {
+      "Title": "Last day to arrange tuition and fees",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees",
+      "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest. After this date, a Late Fees Arrangement Form is required to become Fees Arranged.",
+      "Term": "Fall 2019",
+      "Dates": "Oct 31, 2019"
+   },
+   {
+      "Title": "Drop/Add Period begins",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/dropadd-period-begins",
+      "Description": "The Drop/Add Period begins with individualized Quest appointment times. See How to view appointment time for the beginning of drop/add. Dates listed indicate Quest appointment period. The Add Period continues for all students until the last day to add a class.",
+      "Term": "Winter 2020",
+      "Dates": "Nov 18, 2019 to Nov 19, 2019"
+   },
+   {
+      "Title": "Drop with WF begins",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wf-begins",
+      "Description": "WF (Withdrew/Failure, no credit granted, value 32) grade assigned for class(es) dropped during this period. Engineering students: Visit course load and withdrawal in the Undergraduate Calendar for specific regulations.",
+      "Term": "Fall 2019",
+      "Dates": "Nov 20, 2019"
+   },
+   {
+      "Title": "Classes end",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-end",
+      "Description": "Laurier may have a different schedule - visit their website for applicable end dates.",
+      "Term": "Fall 2019",
+      "Dates": "Dec 3, 2019"
+   },
+   {
+      "Title": "Drop with WF ends",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wf-ends",
+      "Description": "Last day to drop a class without a petition and receive a WF (Withdrew/Failure, no credit granted, value 32) grade.",
+      "Term": "Fall 2019",
+      "Dates": "Dec 5, 2019"
+   },
+   {
+      "Title": "Online class examination days",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/online-class-examination-days",
+      "Description": "",
+      "Term": "Fall 2019",
+      "Dates": "Dec 6, 2019 to Dec 7, 2019"
+   },
+   {
+      "Title": "Late fees begin",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/late-fees-begin",
+      "Description": "See Student Financial Services website.",
+      "Term": "Winter 2020",
+      "Dates": "Dec 13, 2019"
+   },
+   {
+      "Title": "On-campus examinations end",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/campus-examinations-end",
+      "Description": "",
+      "Term": "Fall 2019",
+      "Dates": "Dec 21, 2019"
+   },
+   {
+      "Title": "University holiday closure",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/university-holiday-closure",
+      "Description": "No classes and offices closed",
+      "Term": "Fall 2019",
+      "Dates": "Dec 24, 2019 to Dec 31, 2019"
+   },
+   {
+      "Title": "Graduate student orientation",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/graduate-student-orientation",
+      "Description": "Visit the�Orientation website for information about graduate student orientation.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 5, 2020"
+   },
+   {
+      "Title": "Reading Week",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reading-week",
+      "Description": "All classes cancelled.",
+      "Term": "Fall 2019",
+      "Dates": "Oct 15, 2019 to Oct 18, 2019"
+   },
+   {
+      "Title": "Tuition and fee refund deadline - 50%",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-50",
+      "Description": "See Student Financial Services website.",
+      "Term": "Fall 2019",
+      "Dates": "Oct 22, 2019"
+   },
+   {
+      "Title": "Last day to arrange tuition and fees",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees-0",
+      "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest.",
+      "Term": "Fall 2019",
+      "Dates": "Oct 31, 2019"
+   },
+   {
+      "Title": "View next term's schedule and appointments",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/view-next-terms-schedule-and-appointments",
+      "Description": "Registered students can begin to view next term's class schedule and appointment time in Quest. See How to view appointment time for the beginning of drop/add?",
+      "Term": "Winter 2020",
+      "Dates": "Nov 14, 2019"
+   },
+   {
+      "Title": "Drop with WD ends",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-ends-0",
+      "Description": "Last day to drop a class and receive a WD (Withdrew, no credit granted) grade.",
+      "Term": "Fall 2019",
+      "Dates": "Nov 19, 2019"
+   },
+   {
+      "Title": "Class enrolment period",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-enrolment-period",
+      "Description": "During this period, graduate students can enrol themselves in classes using Quest, and can also drop classes in Quest. Graduate students who are not fee arranged and have enrolled in classes will have their classes dropped at the end of the third week of classes (end of class enrolment period).",
+      "Term": "Winter 2020",
+      "Dates": "Dec 2, 2019 to Jan 26, 2020"
+   },
+   {
+      "Title": "Pre-examination study days",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/pre-examination-study-days",
+      "Description": "",
+      "Term": "Fall 2019",
+      "Dates": "Dec 4, 2019 to Dec 5, 2019"
+   },
+   {
+      "Title": "On-campus examinations begin",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/campus-examinations-begin",
+      "Description": "",
+      "Term": "Fall 2019",
+      "Dates": "Dec 6, 2019"
+   },
+   {
+      "Title": "Tuition and fees due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fees-due",
+      "Description": "Become Fees Arranged or access to LEARN may be affected.",
+      "Term": "Winter 2020",
+      "Dates": "Dec 12, 2019"
+   },
+   {
+      "Title": "Co-operative work term ends",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-ends",
+      "Description": "Actual dates may vary depending on employer or student requirements.",
+      "Term": "Fall 2019",
+      "Dates": "Dec 20, 2019"
+   },
+   {
+      "Title": "Grades begin to appear in Quest",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/grades-begin-appear-quest",
+      "Description": "Registered students can view their unofficial term grades in Quest. Note: Not all grades will be available on this date.",
+      "Term": "Fall 2019",
+      "Dates": "Dec 22, 2019"
+   },
+   {
+      "Title": "New Year's Day",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/new-years-day",
+      "Description": "No classes and offices closed",
+      "Term": "Winter 2020",
+      "Dates": "Jan 1, 2020"
+   },
+   {
+      "Title": "Co-operative work term begins",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-begins",
+      "Description": "Actual dates may vary depending on employer or student requirements.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 6, 2020"
+   },
+   {
+      "Title": "Reserves removed",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reserves-removed",
+      "Description": "Reserves on most classes will be removed, opening remaining spaces to all students. See Schedule of Classes.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 10, 2020"
+   },
+   {
+      "Title": "Last day to add a class",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-add-class",
+      "Description": "See How to create your class schedule.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 17, 2020"
+   },
+   {
+      "Title": "Tuition and fee refund deadline - 100%",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-100",
+      "Description": "See Student Financial Services website.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 24, 2020"
+   },
+   {
+      "Title": "Course Selection Period",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/course-selection-period",
+      "Description": "See How do I select courses for a future term?",
+      "Term": "Spring 2020",
+      "Dates": "Jan 27, 2020 to Feb 6, 2020"
+   },
+   {
+      "Title": "Last day to arrange tuition and fees",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees-0",
+      "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 31, 2020"
+   },
+   {
+      "Title": "Adjust online course examination location End date updated on January 14, 2020.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/adjust-online-course-examination-location",
+      "Description": "See How do I view my online course exam schedule?",
+      "Term": "Winter 2020",
+      "Dates": "Jan 31, 2020 to Feb 25, 2020"
+   },
+   {
+      "Title": "Tuition and fee refund deadline - 50%",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-50",
+      "Description": "See Student Financial Services website.",
+      "Term": "Winter 2020",
+      "Dates": "Feb 14, 2020"
+   },
+   {
+      "Title": "Family Day",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/family-day",
+      "Description": "All classes cancelled and offices closed",
+      "Term": "Winter 2020",
+      "Dates": "Feb 17, 2020"
+   },
+   {
+      "Title": "Final examination relief requests due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-examination-relief-requests-due",
+      "Description": "Requests for relief for consecutive final exams are generally due 3 weeks after the final examination schedule is published.",
+      "Term": "Winter 2020",
+      "Dates": "Feb 25, 2020"
+   },
+   {
+      "Title": "Drop with WD ends Extended from March 20 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-ends-0",
+      "Description": "Last day to drop a class and receive a WD (Withdrew, no credit granted) grade.",
+      "Term": "Winter 2020",
+      "Dates": "Mar 30, 2020"
+   },
+   {
+      "Title": "View next term's schedule and appointments Revised from March 18 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/view-next-terms-schedule-and-appointments",
+      "Description": "Registered students can begin to view next term's class schedule and appointment time in Quest. See How to view appointment time for the beginning of drop/add?",
+      "Term": "Spring 2020",
+      "Dates": "Apr 1, 2020"
+   },
+   {
+      "Title": "Classes end",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-end",
+      "Description": "Laurier may have a different schedule - visit their website for applicable end dates.",
+      "Term": "Winter 2020",
+      "Dates": "Apr 3, 2020"
+   },
+   {
+      "Title": "Classes begin",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-begin",
+      "Description": "Laurier may have a different schedule - visit their website for applicable start dates.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 6, 2020"
+   },
+   {
+      "Title": "Last day to select examination centres",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-select-examination-centres",
+      "Description": "For online courses; log in to Quest.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 12, 2020"
+   },
+   {
+      "Title": "Standing decisions and official grades are available in Quest",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/standing-decisions-and-official-grades-are-available-quest",
+      "Description": "Registered students can view their official and complete term grades, along with academic standing, in Quest.",
+      "Term": "Fall 2019",
+      "Dates": "Jan 21, 2020"
+   },
+   {
+      "Title": "Drop with WD begins",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-begins-0",
+      "Description": "WD (Withdrew, no credit granted) grade assigned for class(es) dropped during this period.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 25, 2020"
+   },
+   {
+      "Title": "Class drop with grade of Withdrawn, no credit granted (WD) Extended from March 22 to March 29 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-drop-grade-withdrawn-no-credit-granted-wd",
+      "Description": "During this period, graduate students can continue to drop classes in Quest but a grade of Withdrawn, no credit granted (WD) will be applied and the class will remain on the transcript.� Note that WD is not an academic penalty. Outside of this period, students with special circumstances can petition to drop or add a class using a course drop add form (Graduate Studies forms website).",
+      "Term": "Winter 2020",
+      "Dates": "Jan 27, 2020 to Mar 29, 2020"
+   },
+   {
+      "Title": "Final examination schedules released",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-examination-schedules-released",
+      "Description": "Go to on-campus and online schedules.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 31, 2020"
+   },
+   {
+      "Title": "Last day to arrange tuition and fees",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees",
+      "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest. After this date, a Late Fees Arrangement Form is required to become Fees Arranged.",
+      "Term": "Winter 2020",
+      "Dates": "Jan 31, 2020"
+   },
+   {
+      "Title": "Requests for accommodations on religious grounds due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/requests-accommodations-religious-grounds-due",
+      "Description": "Requests for accommodations on religous grounds for final examinations should normally be made within weeks of the final examination schedule being published. Students must contact their instructor by the deadline.",
+      "Term": "Winter 2020",
+      "Dates": "Feb 14, 2020"
+   },
+   {
+      "Title": "Reading Week",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reading-week",
+      "Description": "All classes cancelled.",
+      "Term": "Winter 2020",
+      "Dates": "Feb 18, 2020 to Feb 21, 2020"
+   },
+   {
+      "Title": "Application to Graduate due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/application-graduate-due-0",
+      "Description": "Complete an Application to Graduate for the June convocation ceremony.",
+      "Term": "Winter 2020",
+      "Dates": "Mar 1, 2020"
+   },
+   {
+      "Title": "Drop with WF begins Drop with WD extended from March 20 to March 30 due to COVID-19, thus Drop with WF begins also extended.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wf-begins",
+      "Description": "WF (Withdrew/Failure, no credit granted, value 32) grade assigned for class(es) dropped during this period. Engineering students: Visit course load and withdrawal in the Undergraduate Calendar for specific regulations.",
+      "Term": "Winter 2020",
+      "Dates": "Mar 31, 2020"
+   },
+   {
+      "Title": "Drop/Add Period begins Revised from March 23-24 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/dropadd-period-begins",
+      "Description": "The Drop/Add Period begins with individualized Quest appointment times. See How to view appointment time for the beginning of drop/add. Dates listed indicate Quest appointment period. The Add Period continues for all students until the last day to add a class.",
+      "Term": "Spring 2020",
+      "Dates": "Apr 2, 2020 to Apr 3, 2020"
+   },
+   {
+      "Title": "Class enrolment period Revised from March 30-May 24 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-enrolment-period",
+      "Description": "During this period, graduate students can enrol themselves in classes using Quest, and can also drop classes in Quest. Graduate students who are not fee arranged and have enrolled in classes will have their classes dropped at the end of the third week of classes (end of class enrolment period).",
+      "Term": "Spring 2020",
+      "Dates": "Apr 6, 2020 to May 31, 2020"
+   },
+   {
+      "Title": "Drop with WF ends",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wf-ends",
+      "Description": "Last day to drop a class without a petition and receive a WF (Withdrew/Failure, no credit granted, value 32) grade.",
+      "Term": "Winter 2020",
+      "Dates": "Apr 7, 2020"
+   },
+   {
+      "Title": "Good Friday",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/good-friday",
+      "Description": "All classes cancelled and offices closed",
+      "Term": "Winter 2020",
+      "Dates": "Apr 10, 2020"
+   },
+   {
+      "Title": "Co-operative work term ends",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-ends",
+      "Description": "Actual dates may vary depending on employer or student requirements.",
+      "Term": "Winter 2020",
+      "Dates": "Apr 24, 2020"
+   },
+   {
+      "Title": "CR/NCR choice period",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/crncr-choice-period",
+      "Description": "Indicate which winter 2020 courses with numeric grades should be converted to the CR (credit)/NCR (no credit) grading basis.",
+      "Term": "Winter 2020",
+      "Dates": "Apr 26, 2020 to May 10, 2020"
+   },
+   {
+      "Title": "Co-operative work term begins Revised from May 4 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-begins",
+      "Description": "Actual dates may vary depending on employer or student requirements.",
+      "Term": "Spring 2020",
+      "Dates": "May 11, 2020"
+   },
+   {
+      "Title": "Reserves removed Revised from May 8 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/reserves-removed",
+      "Description": "Reserves on most classes will be removed, opening remaining spaces to all students. See Schedule of Classes.",
+      "Term": "Spring 2020",
+      "Dates": "May 15, 2020"
+   },
+   {
+      "Title": "Tuition and fees due Revised from April 24 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fees-due",
+      "Description": "Become Fees Arranged or access to LEARN may be affected.",
+      "Term": "Spring 2020",
+      "Dates": "May 15, 2020"
+   },
+   {
+      "Title": "Victoria Day",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/victoria-day",
+      "Description": "All classes cancelled and offices closed",
+      "Term": "Spring 2020",
+      "Dates": "May 18, 2020"
+   },
+   {
+      "Title": "Standing decisions and official grades are available in Quest Extended from May 20 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/standing-decisions-and-official-grades-are-available-quest",
+      "Description": "Registered students can view their official and complete term grades, along with academic standing, in Quest.",
+      "Term": "Winter 2020",
+      "Dates": "May 27, 2020"
+   },
+   {
+      "Title": "Tuition and fee refund deadline - 100% Revised from May 22 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-100",
+      "Description": "See Student Financial Services website.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 1, 2020"
+   },
+   {
+      "Title": "Final examination schedules released Revised from May 27 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-examination-schedules-released",
+      "Description": "Go to on-campus and online schedules.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 10, 2020"
+   },
+   {
+      "Title": "Requests for accommodations on religious grounds due Revised from June 10 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/requests-accommodations-religious-grounds-due",
+      "Description": "Requests for accommodations on religous grounds for final examinations should normally be made within weeks of the final examination schedule being published. Students must contact their instructor by the deadline.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 24, 2020"
+   },
+   {
+      "Title": "Class enrolment period Revised from March 30-May 24 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-enrolment-period",
+      "Description": "During this period, graduate students can enrol themselves in classes using Quest, and can also drop classes in Quest. Graduate students who are not fee arranged and have enrolled in classes will have their classes dropped at the end of the third week of classes (end of class enrolment period).",
+      "Term": "Spring 2020",
+      "Dates": "Apr 6, 2020 to May 31, 2020"
+   },
+   {
+      "Title": "End of term evaluation period begins - no on-campus exams",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/end-term-evaluation-period-begins-no-campus-exams",
+      "Description": "",
+      "Term": "Winter 2020",
+      "Dates": "Apr 8, 2020"
+   },
+   {
+      "Title": "Online class examination days No in-person exams; contact instructor for details.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/online-class-examination-days",
+      "Description": "",
+      "Term": "Winter 2020",
+      "Dates": "Apr 17, 2020 to Apr 18, 2020"
+   },
+   {
+      "Title": "End of term evaluation period concludes",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/end-term-evaluation-period-concludes",
+      "Description": "",
+      "Term": "Winter 2020",
+      "Dates": "Apr 25, 2020"
+   },
+   {
+      "Title": "Grades begin to appear in Quest",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/grades-begin-appear-quest",
+      "Description": "Registered students can view their unofficial term grades in Quest. Note: Not all grades will be available on this date.",
+      "Term": "Winter 2020",
+      "Dates": "Apr 26, 2020"
+   },
+   {
+      "Title": "Classes begin Online classes only; revised from May 4 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-begin",
+      "Description": "Laurier may have a different schedule - visit their website for applicable start dates.",
+      "Term": "Spring 2020",
+      "Dates": "May 11, 2020"
+   },
+   {
+      "Title": "Program completion deadline for Convocation - spring 2020 Extended from April 30 to May 15 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/program-completion-deadline-convocation-spring-2020",
+      "Description": "",
+      "Term": "Spring 2020",
+      "Dates": "May 15, 2020"
+   },
+   {
+      "Title": "Late fees begin Revised from April 25 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/late-fees-begin",
+      "Description": "See Student Financial Services website.",
+      "Term": "Spring 2020",
+      "Dates": "May 16, 2020"
+   },
+   {
+      "Title": "Last day to add a class Revised from May 15 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-add-class",
+      "Description": "See How to create your class schedule.",
+      "Term": "Spring 2020",
+      "Dates": "May 25, 2020"
+   },
+   {
+      "Title": "Class drop with grade of Withdrawn, no credit granted (WD) Revised from May 25-July 12 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/class-drop-grade-withdrawn-no-credit-granted-wd",
+      "Description": "During this period, graduate students can continue to drop classes in Quest but a grade of Withdrawn, no credit granted (WD) will be applied and the class will remain on the transcript.� Note that WD is not an academic penalty. Outside of this period, students with special circumstances can petition to drop or add a class using a course drop add form (Graduate Studies forms website).",
+      "Term": "Spring 2020",
+      "Dates": "Jun 1, 2020 to Jul 19, 2020"
+   },
+   {
+      "Title": "Drop with WD begins Revised from May 23 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-begins-0",
+      "Description": "WD (Withdrew, no credit granted) grade assigned for class(es) dropped during this period.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 2, 2020"
+   },
+   {
+      "Title": "Convocation - spring 2020",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/convocation-spring-2020",
+      "Description": "Visit Convocation website for ceremony details.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 16, 2020 to Jun 20, 2020"
+   },
+   {
+      "Title": "Tuition and fee refund deadline - 50% Revised from June 19 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/tuition-and-fee-refund-deadline-50",
+      "Description": "See Student Financial Services website.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 26, 2020"
+   },
+   {
+      "Title": "Last day to arrange tuition and fees",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees-0",
+      "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 30, 2020"
+   },
+   {
+      "Title": "Final examination relief requests due Revised from June 19 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-examination-relief-requests-due",
+      "Description": "Requests for relief for consecutive final exams are generally due 3 weeks after the final examination schedule is published.",
+      "Term": "Spring 2020",
+      "Dates": "Jul 3, 2020"
+   },
+   {
+      "Title": "Drop with WF begins Revised from July 15 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wf-begins",
+      "Description": "WF (Withdrew/Failure, no credit granted, value 32) grade assigned for class(es) dropped during this period. Engineering students: Visit course load and withdrawal in the Undergraduate Calendar for specific regulations.",
+      "Term": "Spring 2020",
+      "Dates": "Jul 22, 2020"
+   },
+   {
+      "Title": "Civic Day",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/civic-day",
+      "Description": "All classes cancelled and offices closed",
+      "Term": "Spring 2020",
+      "Dates": "Aug 3, 2020"
+   },
+   {
+      "Title": "Drop with WF ends Revised from July 30 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wf-ends",
+      "Description": "Last day to drop a class without a petition and receive a WF (Withdrew/Failure, no credit granted, value 32) grade.",
+      "Term": "Spring 2020",
+      "Dates": "Aug 6, 2020"
+   },
+   {
+      "Title": "Final assessment period begins Replaces on-campus final examination period (July 31 to August 15) due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-assessment-period-begins",
+      "Description": "",
+      "Term": "Spring 2020",
+      "Dates": "Aug 7, 2020"
+   },
+   {
+      "Title": "Grades begin to appear in Quest",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/grades-begin-appear-quest",
+      "Description": "Registered students can view their unofficial term grades in Quest. Note: Not all grades will be available on this date.",
+      "Term": "Spring 2020",
+      "Dates": "Aug 16, 2020"
+   },
+   {
+      "Title": "Program completion deadline for Convocation - fall 2020",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/program-completion-deadline-convocation-fall-2020",
+      "Description": "",
+      "Term": "Spring 2020",
+      "Dates": "Aug 31, 2020"
+   },
+   {
+      "Title": "Last day to arrange tuition and fees",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/last-day-arrange-tuition-and-fees",
+      "Description": "Refer to tuition and fees deadlines. Late fees apply, see Student Financial Services for details. This is also the last day to submit a Promissory Note in Quest. After this date, a Late Fees Arrangement Form is required to become Fees Arranged.",
+      "Term": "Spring 2020",
+      "Dates": "Jun 30, 2020"
+   },
+   {
+      "Title": "Canada Day",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/canada-day",
+      "Description": "All classes cancelled and offices closed",
+      "Term": "Spring 2020",
+      "Dates": "Jul 1, 2020"
+   },
+   {
+      "Title": "Drop with WD ends Revised from July 14 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/drop-wd-ends-0",
+      "Description": "Last day to drop a class and receive a WD (Withdrew, no credit granted) grade.",
+      "Term": "Spring 2020",
+      "Dates": "Jul 21, 2020"
+   },
+   {
+      "Title": "Application to Graduate due",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/application-graduate-due",
+      "Description": "Complete an Application to Graduate for the October convocation ceremony.",
+      "Term": "Spring 2020",
+      "Dates": "Aug 1, 2020"
+   },
+   {
+      "Title": "Classes end Revised from July 28 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/classes-end",
+      "Description": "Laurier may have a different schedule - visit their website for applicable end dates.",
+      "Term": "Spring 2020",
+      "Dates": "Aug 5, 2020"
+   },
+   {
+      "Title": "Pre-final assessment study day Replaces pre-examination study days (July 29-30) due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/pre-final-assessment-study-day",
+      "Description": "",
+      "Term": "Spring 2020",
+      "Dates": "Aug 6, 2020"
+   },
+   {
+      "Title": "Final assessment period ends Replaces on-campus final examination period (July 31 to August 15) due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/final-assessment-period-ends",
+      "Description": "",
+      "Term": "Spring 2020",
+      "Dates": "Aug 15, 2020"
+   },
+   {
+      "Title": "Co-operative work term ends Revised from August 21 due to COVID-19.",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/co-operative-work-term-ends",
+      "Description": "Actual dates may vary depending on employer or student requirements.",
+      "Term": "Spring 2020",
+      "Dates": "Aug 28, 2020"
+   },
+   {
+      "Title": "Standing decisions and official grades are available in Quest",
+      "TitleRef": "https://uwaterloo.ca/important-dates/2019-2020/standing-decisions-and-official-grades-are-available-quest",
+      "Description": "Registered students can view their official and complete term grades, along with academic standing, in Quest.",
+      "Term": "Spring 2020",
+      "Dates": "Sep 15, 2020"
+   }
+]
